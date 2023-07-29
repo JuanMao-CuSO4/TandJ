@@ -24,12 +24,13 @@
 * [Page 1](act.3-strength/page-1/README.md)
   * [bilibili.com\_read\_pcpreview\_aid=263733](act.3-strength/page-1/bilibili.com\_read\_pcpreview\_aid-263733.md)
 
-## ACT.IV 数据
+## ACT.IV 数据 <a href="#act.iv-data" id="act.iv-data"></a>
 
-* [猫鼠赛事规则（业余赛/职业赛）](act.iv-shu-ju/mao-shu-sai-shi-gui-ze-ye-yu-sai-zhi-ye-sai.md)
+* [猫鼠赛事规则（业余赛/职业赛）](act.iv-data/mao-shu-sai-shi-gui-ze-ye-yu-sai-zhi-ye-sai.md)
 
 ***
 
+* [Page](page.md)
 * [Page 5](page-5.md)
 * [Page 3](page-3/README.md)
   * [Page 4](page-3/page-4.md)
@@ -38,3 +39,4 @@
 ## 附录
 
 * [猫鼠赛事规则（业余赛/职业赛）](fu-lu/mao-shu-sai-shi-gui-ze-ye-yu-sai-zhi-ye-sai.md)
+* [Page 6](fu-lu/page-6.md)
