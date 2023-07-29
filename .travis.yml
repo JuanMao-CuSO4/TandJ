@@ -23,9 +23,6 @@ script:
 - gitbook build . ./build
   # - gitbook build . ./build/$CUSTOM_PATH
 
-# 分支白名单
-branches:
-    - main
 
 # GitHub Pages 部署
 deploy:
