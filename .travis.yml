@@ -25,7 +25,6 @@ script:
 
 # 分支白名单
 branches:
-only:
 - master # 只对 master 分支进行构建
 - main
 
