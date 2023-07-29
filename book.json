@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "tabs",
+    "hints",
+    "highlight",
+    "-search",
+    "back-to-top-button",
+    "expandable-chapters-small",
+    "insert-logo",
+    "theme-comscore"
+  ]
+}
