@@ -79,9 +79,9 @@ $$
 2021.9.24	7/6.5/6
 ```
 {% endcode %}
-{% endtab %}
 {% endtabs %}
-{% endtab %}
+{% endtabs %}
+{% endtabs %}
 
 {% tabs title="蓄势一击/蓄力" %}
 {% tabs %}
@@ -92,9 +92,9 @@ $$
 2020.8.28	17/15/13
 2021.9.24	16/15/14
 ```
-{% endtab %}
 {% endtabs %}
-{% endtab %}
+{% endtabs %}
+{% endtabs %}
 
 {% tabs title="铁血" %}
 {% tabs %}
