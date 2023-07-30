@@ -67,9 +67,9 @@ $$
 接下来说知识卡：选取比较有代表意义的几张卡，把他们的数值更改日期罗列出来：
 
 {% tabs %}
-{% tab title="细心" %}
+{% tabs title="细心" %}
 {% tabs %}
-{% tab title="（数值为debuff减速效果，越小越好）" %}
+{% tabs title="（数值为debuff减速效果，越小越好）" %}
 {% code fullWidth="true" %}
 ```
 更改日期         Lv1/2/3
@@ -83,9 +83,9 @@ $$
 {% endtabs %}
 {% endtab %}
 
-{% tab title="蓄势一击/蓄力" %}
+{% tabs title="蓄势一击/蓄力" %}
 {% tabs %}
-{% tab title="（数值为debuff减速效果，越小越好）" %}
+{% tabs title="（数值为debuff减速效果，越小越好）" %}
 ```
 更改日期         Lv1/2/3
 2020.1.19	25/20/15（不可打断）
@@ -96,18 +96,18 @@ $$
 {% endtabs %}
 {% endtab %}
 
-{% tab title="铁血" %}
+{% tabs title="铁血" %}
 {% tabs %}
-{% tab title="（数值为无敌/免疫虚弱时间，越长越好）" %}
+{% tabs title="（数值为无敌/免疫虚弱时间，越长越好）" %}
 ```
 更改日期         Lv1/2/3
 2018.7.25	3/5/7
 2020.5.22	5/6/7
 2021.9.24	6/6.5/7
 ```
-{% endtab %}
 {% endtabs %}
-{% endtab %}
+{% endtabs %}
+{% endtabs %}
 {% endtabs %}
 
 我们发现，随时间的推移——各个知识卡不同等级的差距越来越小。
