@@ -16,8 +16,8 @@ description: 猫鼠对新手玩家的福利越发明显了 从知识卡，到角
 
 * <mark style="color:green;">(C级)了解新老玩家的概念，知道新老玩家对游戏发展都很重要。这将为学习《退游》做准备。</mark>
 * <mark style="color:purple;">(A级)明白新老矛盾的本质是游戏资源的冲突。</mark>
-* <mark style="color:yellow;">(S级)知道吸新固老，是猫鼠目前的运营目标，熟悉并理解策划组为达成新老平衡的举措。能运用该理论简单分析这些举措提升新/老玩家游戏体验的方式。</mark>
-  * <mark style="color:yellow;">(S级)理解看似偏袒新玩家的资源分配，其目的是缩小新老玩家差距,提高新玩家体验,从而增加玩家数量。而且为保护老玩家能运用该理论看待、批判老玩家对于新手福利的争议。</mark>
+* <mark style="color:yellow;">(S级)知道</mark><mark style="color:yellow;">**吸新固老**</mark><mark style="color:yellow;">是猫鼠目前的运营目标，熟悉并理解策划组为达成新老平衡的举措。能运用该理论简单分析这些举措提升新/老玩家游戏体验的方式。</mark>
+  * <mark style="color:yellow;">(S级)理解看似偏袒新玩家的资源分配，其目的是缩小新老玩家差距,提高新玩家体验,从而增加玩家数量。注意到策划组为保护老玩家，对新玩家设置了获取资源的限制。能运用该理论看待、批判老玩家对于新手福利的争议。</mark>
   * <mark style="color:yellow;">(S级)学会提升自身技术、开创新玩法，在游戏中获得更大发展空间的“老玩家生存法则”。而策划组已经运用了大量措施，帮助老玩家实现这一成就，这些内容将在拓展部分1阐述。</mark>
 * <mark style="color:blue;">(B级)意识到部分老玩家没能理解资源分配的用意，应试着引导他们正确认识新老平衡。</mark>
 
@@ -51,7 +51,7 @@ $$
 
 &#x20;      无关的叫局外资源，包含皮肤、彩饰（等诸如染色、火箭机器鼠改装等附属物品）还有一些，不属于局内外资源——但可以用他们通过抽奖、购买、兑换来获取资源，把他们归类为虚拟货币：包括金币、银币、星星、邮票等，大致上也和网易直接发角色皮肤划等号。他们的主要转化关系如图所示：
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>资源转化关系图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>资源转化关系图</p></figcaption></figure>
 
 &#x20;      网易在派发福利的时候，通常是局内外资源和虚拟货币混着发。通过活动、邮件等形式给到玩家，其目的主要是促进玩家继续游玩。
 
@@ -85,7 +85,7 @@ $$
 
 &#x20;      大部分后来的角色与武器的利用率高些，不仅是他们的属性特殊，更是他们需要的练习，对技术的要求高——这样的角色适合老玩家。典型例子是亲友邮局的限定角色：
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>亲友邮局限定角色</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>亲友邮局限定角色</p></figcaption></figure>
 
 #### <mark style="background-color:orange;">老的角色、武器强度略低，是玩家技术上升的必然结果</mark>
 
@@ -169,7 +169,7 @@ $$
 
 #### <mark style="background-color:red;">截至目前的网易免费赠送的A及以上等级皮肤（皮肤等级是零氪为条件能获取的最大值）</mark>
 
-<table data-full-width="false"><thead><tr><th width="238.33333333333331">皮肤名称</th><th width="185">时间</th><th width="100">皮肤等级</th></tr></thead><tbody><tr><td>国王杰瑞·郁金香王座  </td><td>2020.1</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>泰菲·糖果兔</td><td>2020.6</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>图多盖洛·白狐少女</td><td>2020.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>泰菲·小蜜蜂</td><td>2020.11、2021.11</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>图茨·世家贵女</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>天使泰菲·小财神</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>布奇·拳击手</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>恶魔泰菲·科学天才</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>侦探泰菲·小报童</td><td>2021.3</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>莱特宁·说唱歌手</td><td>2021.4</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>库博·太空学者</td><td>2021.6</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>音乐家杰瑞·星海乐章</td><td>2021.6</td><td><em><mark style="color:yellow;"><strong>S级</strong></mark></em></td></tr><tr><td>托普斯·冬雪之旅</td><td>2022.1</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>凯特·冬日恋语/温暖冬日</td><td>2022.1</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>天使汤姆·光明使者</td><td>2022.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>恶魔汤姆·深渊使者</td><td>2023.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="196.33333333333331">皮肤名称</th><th width="99">时间</th><th width="100">皮肤等级</th></tr></thead><tbody><tr><td>国王杰瑞·郁金香王座  </td><td>2020.1</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>泰菲·糖果兔</td><td>2020.6</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>图多盖洛·白狐少女</td><td>2020.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>泰菲·小蜜蜂</td><td>2020.11、2021.11</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>图茨·世家贵女</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>天使泰菲·小财神</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>布奇·拳击手</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>恶魔泰菲·科学天才</td><td>2021.2</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>侦探泰菲·小报童</td><td>2021.3</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>莱特宁·说唱歌手</td><td>2021.4</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>库博·太空学者</td><td>2021.6</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>音乐家杰瑞·星海乐章</td><td>2021.6</td><td><em><mark style="color:yellow;"><strong>S级</strong></mark></em></td></tr><tr><td>托普斯·冬雪之旅</td><td>2022.1</td><td><mark style="color:purple;"><strong>A级</strong></mark></td></tr><tr><td>凯特·冬日恋语（又称温暖冬日）</td><td>2022.1</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>天使汤姆·光明使者</td><td>2022.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr><tr><td>恶魔汤姆·深渊使者</td><td>2023.6</td><td><mark style="color:purple;"><strong>A级 彩饰</strong></mark></td></tr></tbody></table>
 
 &#x20;      而B皮更是数不胜数,篇幅有限,暂时不列出。 如果你游戏时间长,那么你还能在持续的游戏中囤积星星和皮肤精华,获得更多皮肤。如果结合你自己的游戏经历,皮肤数量和游戏时间是呈正相关的。认为新玩家在皮肤上有优势,这是有一定问题的。
 

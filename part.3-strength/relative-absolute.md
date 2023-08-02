@@ -10,6 +10,14 @@
 
 </details>
 
+## 学习目标
+
+* <mark style="color:purple;">（A级）了解强度的定义；理解强度与平衡的对立关系。</mark>
+* <mark style="color:purple;">（A级）能初步理解相对、绝对强度的概念、影响因素并对他们做出区分。</mark>
+* <mark style="color:yellow;">（S级）开始意识到相对强度对玩法的风评起决定性作用，能初步运用该理论看待玩家对强度的看法及言论。</mark>
+* <mark style="color:blue;">（B级）知道玩家也是影响强度的重要主体。</mark>
+* <mark style="color:green;">（C级）体会《意识养成课》的“强度可知论”的先进性。</mark>
+
 ## 强度与平衡<mark style="color:yellow;">对立统一</mark>
 
 &#x20;       在正片3\~6中，我们从阵营间的“敌我平衡”、阵营内部的“友方平衡”、玩家间的“新老平衡”，这3个方面；整体的讲述了猫鼠的平衡系统。而与之关系密切的是强度。我们将强度定义为：
