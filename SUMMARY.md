@@ -30,6 +30,8 @@
 
 * [7.外服](part.v-operation/7.external-server.md)
 * [8.先锋与共研](part.v-operation/8.alpha-beta-test.md)
+* [Page](part.v-operation/page/README.md)
+  * [simpread 策划组是怎么填补共研服关闭造成的测试空缺的？？#意识养成课拓展5 哔哩哔哩 (1)](part.v-operation/page/simpread-ce-hua-zu-shi-zen-mo-tian-bu-gong-yan-fu-guan-bi-zao-cheng-de-ce-shi-kong-que-de-yi-shi-yan.md)
 
 ## PART.Ⅵ 舆论 <a href="#part.vi-public-opinion" id="part.vi-public-opinion"></a>
 
