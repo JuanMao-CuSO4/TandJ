@@ -33,9 +33,9 @@ description: 点击屏幕左侧的三根横线，可以选择篇章阅读。
 
 ## PART.Ⅲ  强度
 
-<table data-full-width="false"><thead><tr><th width="198.33333333333331">标题（点击查看文章）</th><th width="134" data-type="rating" data-max="5">重要性</th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.3-strength/relative-absolute.md">9.强度-相与绝</a></td><td>4</td><td>3</td></tr><tr><td>10.强度-强与弱</td><td>3</td><td>5</td></tr><tr><td><strong>11.强度-赞与踩</strong></td><td>5</td><td>4</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="198.33333333333331">标题（点击查看文章）</th><th width="134" data-type="rating" data-max="5">重要性</th><th data-type="rating" data-max="5">难度</th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.3-strength/relative-absolute.md">9.强度-相与绝</a></td><td>4</td><td>2</td><td>3</td></tr><tr><td>10.强度-强与弱</td><td>3</td><td>5</td><td>5</td></tr><tr><td><strong>11.强度-赞与踩</strong></td><td>5</td><td>3</td><td>4</td></tr></tbody></table>
 
 ## PART.Ⅴ 运营
 
-<table data-full-width="true"><thead><tr><th width="227.33333333333331">标题（点击查看文章）</th><th width="137" data-type="rating" data-max="5">重要性</th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.v-operation/7.external-server.md">7.外服</a></td><td>3</td><td>3</td></tr><tr><td><a href="part.v-operation/8.alpha-beta-test.md">8.先锋与共研</a></td><td>5</td><td>5</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="227.33333333333331">标题（点击查看文章）</th><th width="137" data-type="rating" data-max="5">重要性</th><th data-type="rating" data-max="5"></th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.v-operation/7.external-server.md">7.外服</a></td><td>3</td><td>4</td><td>3</td></tr><tr><td><a href="part.v-operation/8.alpha-beta-test.md">8.先锋与共研</a></td><td>5</td><td>5</td><td>5</td></tr></tbody></table>
 
