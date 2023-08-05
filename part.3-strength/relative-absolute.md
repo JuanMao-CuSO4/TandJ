@@ -12,6 +12,7 @@
 
 ## 学习目标
 
+* <mark style="color:red;">**这是《11.赞与踩》最为重要的前置知识。**</mark>
 * <mark style="color:purple;">（A级）了解强度的定义；理解强度与平衡的对立关系。</mark>
 * <mark style="color:purple;">（A级）能初步理解相对、绝对强度的概念、影响因素并对他们做出区分。</mark>
 * <mark style="color:yellow;">（S级）开始意识到相对强度对玩法的风评起决定性作用，能初步运用该理论看待玩家对强度的看法及言论。</mark>
