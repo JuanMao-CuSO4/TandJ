@@ -1,5 +1,21 @@
 ---
 description: 猫鼠对新手玩家的福利越发明显了 从知识卡，到角色，到皮肤——是不是意味着老玩家一无是处了？
+cover: ../../.gitbook/assets/快照_321.png
+coverY: 40.544
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 6.新老平衡
