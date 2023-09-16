@@ -67,7 +67,7 @@ $$
 
 &#x20;      无关的叫局外资源，包含皮肤、彩饰（等诸如染色、火箭机器鼠改装等附属物品）还有一些，不属于局内外资源——但可以用他们通过抽奖、购买、兑换来获取资源，把他们归类为虚拟货币：包括金币、银币、星星、邮票等，大致上也和网易直接发角色皮肤划等号。他们的主要转化关系如图所示：
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>资源转化关系图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>资源转化关系图</p></figcaption></figure>
 
 &#x20;      网易在派发福利的时候，通常是局内外资源和虚拟货币混着发。通过活动、邮件等形式给到玩家，其目的主要是促进玩家继续游玩。
 
@@ -101,7 +101,7 @@ $$
 
 &#x20;      大部分后来的角色与武器的利用率高些，不仅是他们的属性特殊，更是他们需要的练习，对技术的要求高——这样的角色适合老玩家。典型例子是亲友邮局的限定角色：
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>亲友邮局限定角色</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>亲友邮局限定角色</p></figcaption></figure>
 
 #### <mark style="background-color:orange;">老的角色、武器强度略低，是玩家技术上升的必然结果</mark>
 

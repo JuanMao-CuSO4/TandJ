@@ -37,5 +37,5 @@ description: 点击屏幕左侧的三根横线，可以选择篇章阅读。
 
 ## PART.Ⅴ 运营
 
-<table data-full-width="false"><thead><tr><th width="149.33333333333331">标题（点击查看文章）</th><th width="137" data-type="rating" data-max="5">重要性</th><th data-type="rating" data-max="5">难度</th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.v-operation/7.external-server.md">7.外服</a></td><td>3</td><td>4</td><td>3</td></tr><tr><td><a href="part.v-operation/8.alpha-beta-test.md">8.先锋与共研</a></td><td>5</td><td>5</td><td>5</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="149.33333333333331">标题（点击查看文章）</th><th width="137" data-type="rating" data-max="5">重要性</th><th data-type="rating" data-max="5">难度</th><th data-hidden data-type="rating" data-max="5">难度</th></tr></thead><tbody><tr><td><a href="part.v-operation/7.external-server.md">7.外服</a></td><td>3</td><td>4</td><td>3</td></tr><tr><td><a href="part.v-operation/8.alpha-beta-test/">8.先锋与共研</a></td><td>5</td><td>5</td><td>5</td></tr></tbody></table>
 

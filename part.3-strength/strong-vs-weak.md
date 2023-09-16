@@ -4,7 +4,7 @@
 
 <summary>前置知识</summary>
 
-\[必需][8.先锋与共研](../part.v-operation/8.alpha-beta-test.md)    [9.强度-相与绝](relative-absolute.md) &#x20;
+\[必需][8.先锋与共研](../part.v-operation/8.alpha-beta-test/)    [9.强度-相与绝](relative-absolute.md) &#x20;
 
 \[建议][5.友方平衡-上](../part.ii-balance/4.style-balance.md)
 

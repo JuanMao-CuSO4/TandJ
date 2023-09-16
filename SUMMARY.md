@@ -29,7 +29,8 @@
 ## PART.V 运营 <a href="#part.v-operation" id="part.v-operation"></a>
 
 * [7.外服](part.v-operation/7.external-server.md)
-* [8.先锋与共研](part.v-operation/8.alpha-beta-test.md)
+* [8.先锋与共研](part.v-operation/8.alpha-beta-test/README.md)
+  * [策划组是怎么填补共研服关闭造成的测试空缺的？？#意识养成课拓展5](part.v-operation/8.alpha-beta-test/ce-hua-zu-shi-zen-mo-tian-bu-gong-yan-fu-guan-bi-zao-cheng-de-ce-shi-kong-que-de-yi-shi-yang-cheng-k.md)
 
 ## PART.Ⅵ 舆论 <a href="#part.vi-public-opinion" id="part.vi-public-opinion"></a>
 
